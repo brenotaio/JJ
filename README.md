@@ -1,1 +1,1 @@
-Repositório de novos projetos em diversar linguagens.
+Repositório de novos projetos em diversas linguagens.
